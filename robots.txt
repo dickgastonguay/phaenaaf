@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://utoobeish.daviddurman.com/sitemap.xml
